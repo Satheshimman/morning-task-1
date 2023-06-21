@@ -1,0 +1,27 @@
+*{
+padding:0px;
+margin:0px;
+box-sizing:border-box;
+
+}
+
+
+.form input{
+	outline:none!important;
+	border-bottom:1px solid lightgrey!important;
+}
+
+a{
+	text-decoration:none !important;
+}
+
+
+.image{
+	background-image:linear-gradient(#091a34b0,#091a34a3),url("corp-why.jpg");
+}
+
+::placeholder{
+	color:blue;
+	
+}
+
